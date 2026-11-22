@@ -1,0 +1,7 @@
+model,dataset,config,n,pass_at_1,avg_tokens,avg_iterations,avg_time_sec,adacoder_pass_at_1,beats_adacoder,mapcoder_pass_at_1,beats_mapcoder
+deepseek-coder:6.7b,humaneval,baseline,164,0.878,1875.9,1.7,16.38,0.8598,True,0.6768,True
+deepseek-coder:6.7b,humaneval,+module1+module2+module3,164,0.8476,1525.7,1.54,12.87,0.8598,False,0.6768,True
+deepseek-coder:6.7b,humaneval,+module1+module2,164,0.8537,1518.1,1.54,12.89,0.8598,False,0.6768,True
+deepseek-coder:6.7b,humaneval,+module1,164,0.8537,1518.1,1.54,12.9,0.8598,False,0.6768,True
+deepseek-coder:6.7b,humaneval,+m1+m2,100,0.84,1177.7,1.37,13.98,0.8598,False,0.6768,True
+deepseek-coder:6.7b,humaneval,+m1,100,0.79,381.6,1.01,3.65,0.8598,False,0.6768,True

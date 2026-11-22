@@ -1,0 +1,7 @@
+model,dataset,config,n,pass_at_1,avg_tokens,avg_iterations,avg_time_sec,adacoder_pass_at_1,beats_adacoder,mapcoder_pass_at_1,beats_mapcoder
+qwen2.5-coder:3b,humaneval,baseline,164,0.9329,1125.3,1.41,7.0,,,,
+qwen2.5-coder:3b,humaneval,+module1+module2+module3,164,0.9268,1096.2,1.38,5.41,,,,
+qwen2.5-coder:3b,humaneval,+module1+module2,164,0.9207,1112.9,1.4,5.4,,,,
+qwen2.5-coder:3b,humaneval,+module1,164,0.9207,1084.6,1.38,6.11,,,,
+qwen2.5-coder:3b,humaneval,+m1+m2,100,0.89,1217.8,1.4,5.93,,,,
+qwen2.5-coder:3b,humaneval,+m1,100,0.85,310.0,1.0,1.74,,,,

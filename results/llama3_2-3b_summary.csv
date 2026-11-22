@@ -1,0 +1,7 @@
+model,dataset,config,n,pass_at_1,avg_tokens,avg_iterations,avg_time_sec,adacoder_pass_at_1,beats_adacoder,mapcoder_pass_at_1,beats_mapcoder
+llama3.2:3b,humaneval,baseline,164,0.7927,2112.0,2.13,12.32,,,,
+llama3.2:3b,humaneval,+module1+module2+module3,164,0.7927,1974.5,2.04,11.89,,,,
+llama3.2:3b,humaneval,+module1+module2,164,0.7927,1994.1,2.05,10.23,,,,
+llama3.2:3b,humaneval,+module1,164,0.7988,1954.4,2.03,11.81,,,,
+llama3.2:3b,humaneval,+m1+m2,100,0.75,1739.8,1.77,9.53,,,,
+llama3.2:3b,humaneval,+m1,100,0.61,333.3,1.01,2.63,,,,

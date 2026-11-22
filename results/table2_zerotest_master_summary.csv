@@ -1,0 +1,13 @@
+model,config,passed_count,total_count,pass_rate_pct,ci_lower,ci_upper,valid_oracles_pct
+deepseek-coder-1.3b,+m1,65,100,65.0,55.25,73.64,
+deepseek-coder-1.3b,+m1+m2,74,100,74.0,64.63,81.6,100.0
+deepseek-coder-6.7b,+m1,79,100,79.0,70.02,85.83,
+deepseek-coder-6.7b,+m1+m2,84,100,84.0,75.58,89.9,100.0
+qwen2.5-coder-3b,+m1,85,100,85.0,76.72,90.69,
+qwen2.5-coder-3b,+m1+m2,89,100,89.0,81.37,93.75,100.0
+qwen2.5-coder-1.5b,+m1,69,100,69.0,59.37,77.22,
+qwen2.5-coder-1.5b,+m1+m2,78,100,78.0,68.93,85.0,100.0
+qwen2.5-coder-0.5b,+m1,55,100,55.0,45.24,64.39,
+qwen2.5-coder-0.5b,+m1+m2,71,100,71.0,61.46,78.99,100.0
+llama3.2-3b,+m1,61,100,61.0,51.2,69.98,
+llama3.2-3b,+m1+m2,75,100,75.0,65.7,82.45,100.0

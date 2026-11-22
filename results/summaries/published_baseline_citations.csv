@@ -1,0 +1,17 @@
+model,dataset,framework,pass_at_1
+deepseek-coder:1.3b,humaneval,AdaCoder,0.7683
+deepseek-coder:1.3b,mbpp,AdaCoder,0.7180
+deepseek-coder:6.7b,humaneval,AdaCoder,0.8598
+deepseek-coder:6.7b,mbpp,AdaCoder,0.7800
+codellama:7b-python,humaneval,AdaCoder,0.6341
+codellama:7b-python,mbpp,AdaCoder,0.6840
+codellama:13b-python,humaneval,AdaCoder,0.7195
+codellama:13b-python,mbpp,AdaCoder,0.7040
+deepseek-coder:1.3b,humaneval,MapCoder,0.6037
+deepseek-coder:1.3b,mbpp,MapCoder,0.3740
+deepseek-coder:6.7b,humaneval,MapCoder,0.6768
+deepseek-coder:6.7b,mbpp,MapCoder,0.4460
+codellama:7b-python,humaneval,MapCoder,0.5244
+codellama:7b-python,mbpp,MapCoder,0.5500
+codellama:13b-python,humaneval,MapCoder,0.5915
+codellama:13b-python,mbpp,MapCoder,0.6160
