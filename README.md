@@ -4,6 +4,7 @@
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Reproducibility: 100% Verified](https://img.shields.io/badge/Reproducibility-100%25%20Verified-brightgreen.svg)](#one-click-artifact-verification)
 [![Paper: IEEE Format](https://img.shields.io/badge/Paper-IEEE%20Format-red.svg)](#citation)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rg0rajesh/Multi-Coding-Agent/blob/main/Multi_Coding_Agent_Replication.ipynb)
 
 Official research artifact repository for the paper:
 **"Adaptive, Cost-Aware Multi-Agent Code Generation and Self-Debugging on Open-Weight Language Models"**.
